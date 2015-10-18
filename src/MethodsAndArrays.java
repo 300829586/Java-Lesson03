@@ -6,6 +6,5 @@ public class MethodsAndArrays {
     	 
     	 myIntVariable = (int) myLongVariable;
     	 System.out.println(myIntVariable);
-    	 sys.out
      }
 }
